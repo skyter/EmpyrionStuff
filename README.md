@@ -1,5 +1,7 @@
 # EmpyrionStuff
 
+UPDATE: 2022/12/09 Support Empyrion v1.8 prefabs
+
 This is a collection of tools that can be used to work with some of the file formats used in Empyrion Galacitc Survival.
 
 ## epb
