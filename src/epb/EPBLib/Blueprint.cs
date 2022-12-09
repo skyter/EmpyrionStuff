@@ -1,4 +1,4 @@
-﻿
+
 using EPBLib.BlockData;
 using EPBLib.Helpers;
 using EPBLib.Logic;
@@ -45,6 +45,10 @@ namespace EPBLib
 
         public float Attack { get; set; }
         public float Defence { get; set; }
+
+        public float SoldierAttack { get; set; }
+        public float SoldierDefence { get; set; }
+        public UInt32 UnknownCount07 { get; set; }
 
         public List<DeviceGroup> DeviceGroups = new List<DeviceGroup>();
 
